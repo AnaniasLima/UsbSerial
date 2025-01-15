@@ -23,6 +23,7 @@ local.properties
 *.ipr
 *.iws
 .idea/
+.history
 *.prefs
 
 # Gradle
